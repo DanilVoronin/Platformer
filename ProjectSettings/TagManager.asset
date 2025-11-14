@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Unit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacles
+  - Units
+  - CameraZone
+  - Wheel
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3708225277
+    locked: 0
+  - name: Ground
+    uniqueID: 3997669923
+    locked: 0
+  - name: Unit
+    uniqueID: 4158209633
+    locked: 0
+  - name: Water
+    uniqueID: 3807360555
+    locked: 0
+  - name: Front
+    uniqueID: 30735271
+    locked: 0
+  m_RenderingLayers:
+  - Default
